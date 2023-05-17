@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "medicjoo",
+			"path": "."
+		}
+	],
+	"settings": {
+		"favorites.resources": [
+			{
+				"filePath": "notes/2022-03-23_22-39_orderStatueses.md",
+				"group": "Default"
+			},
+			{
+				"filePath": "notes/todo-list.md",
+				"group": "Default"
+			},
+			{
+				"filePath": "app/Http",
+				"group": "Default"
+			},
+			{
+				"filePath": "resources/views",
+				"group": "Default"
+			},
+			{
+				"filePath": "routes/web.php",
+				"group": "Default"
+			},
+			{
+				"filePath": "database",
+				"group": "Default"
+			}
+		]
+	}
+}

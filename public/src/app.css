@@ -1,0 +1,71 @@
+@font-face {
+  font-family: iransansweb;
+  src: url("../font/IRANSansWeb_Light.woff2");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: iransansweb;
+  src: url("../font/IRANSansWeb.woff2");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: iransansweb;
+  src: url("../font/IRANSansWeb_Bold.woff2");
+  font-weight: bold;
+}
+
+* {
+  font-family: iransansweb;
+}
+
+html,
+body {
+  font-family: iransansweb;
+  background-color: #FAFBFF;
+  min-height: 100vh;
+}
+
+.bg-purple-900 {
+  background-color: #4c1d95 !important;
+}
+
+.w-inherit {
+  width: inherit !important;
+}
+
+.w-390 {
+  width: 390px !important;
+}
+
+.modal {
+  opacity: 1 !important;
+  visibility: visible !important;
+  overflow-y: visible !important;
+  pointer-events: all !important;
+}
+
+.close-modal {
+  color: transparent !important;
+}
+
+.table {
+  text-align: right;
+}
+
+@media (min-width: 368px) {
+  .mobile {
+    width: inherit !important;
+    height: inherit !important;
+    display: block;
+    margin: auto;
+    position: relative;
+    background: auto;
+  }
+}
+
+.blocker {
+  z-index: 5;
+}
+/*# sourceMappingURL=app.css.map */
